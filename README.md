@@ -1,2 +1,1 @@
-- I'm Sebastián Gallardo,
-- You can contact me at sebastian.gallardo@ib.edu.ar
+You can contact me at sebastian.gallardo@ib.edu.ar
